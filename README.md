@@ -1,5 +1,6 @@
 # Accuknox
 Problem Statement 2:
-Write a script to automate the backup of a specified directory to a remote
-server or a cloud storage solution. The script should provide a report on the
-success or failure of the backup operation.
+Create a script that analyzes web server logs (e.g., Apache, Nginx) for
+common patterns such as the number of 404 errors, the most requested
+pages, or IP addresses with the most requests. The script should output a
+summarized report.
